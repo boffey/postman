@@ -62,10 +62,6 @@
 				
 				for(element in data) {
 					
-					/*
-					Absolute Joke of coding
-					*/
-					
 					var elementCache = $(element);
 					var dataCache = data[element];
 					
@@ -95,8 +91,6 @@
 		},
 		
 		validate : function( options ) {
-			
-			// WHAT IS THIS
 			
 			var data = this.data('postman-data');
 			
