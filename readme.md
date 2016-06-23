@@ -1,6 +1,6 @@
 # Postman
 
-I want postman to be the minimal abstraction over basic validation. Whist still providing a great platform for customisation. Postman will make default choices you can override them this is a key concept.
+I want Postman to be the minimal abstraction over basic validation. Whist still providing a great platform for customisation. Postman will make default choices you can override them this is a key concept.
 
 ## Basic Usage
 
